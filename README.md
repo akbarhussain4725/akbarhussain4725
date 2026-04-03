@@ -8,7 +8,6 @@
 - 💻 Python Full Stack Developer (Flask)  
 - 🤖 Built real-world AI-based applications  
 - 📍 Chennai, India  
-- 🌱 Currently learning Frontend & Advanced Python Libraries  
 
 ---
 
