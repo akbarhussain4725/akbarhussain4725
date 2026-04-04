@@ -31,7 +31,7 @@
 
 ## 📄 Resume
 
-👉 [Click here to view my Resume](https://drive.google.com/file/d/1ZKYQ5Ud1CPYuMHXPACbju78mYZTCAPSo/view?usp=drivesdk)
+👉 [Click here to view my Resume](https://drive.google.com/file/d/1HCiSlAWjmlU7cnfkrhMJPz1x4mkqcsAn/view?usp=drivesdk)
 
 (*Upload your resume to Google Drive or GitHub and replace the link above*)
 
