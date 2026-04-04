@@ -84,14 +84,6 @@ NumPy, Matplotlib, Seaborn, TensorFlow, Git, GitHub
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akbarhussain4725&show_icons=true&theme=github_dark" />
-</p>
-
----
-
 ## 💡 Goals
 
 - Become a skilled Python Full Stack Developer  
