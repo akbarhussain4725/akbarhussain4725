@@ -25,15 +25,24 @@
   <a href="https://github.com/akbarhussain4725">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
+
+  <a href="https://akbarhussain.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome" />
+  </a>
 </p>
+
+---
+
+## 🌐 Portfolio
+
+🚀 **Live Portfolio:**  
+👉 https://akbarhussain.netlify.app/
 
 ---
 
 ## 📄 Resume
 
 👉 [Click here to view my Resume](https://drive.google.com/file/d/1HCiSlAWjmlU7cnfkrhMJPz1x4mkqcsAn/view?usp=drivesdk)
-
-(*Upload your resume to Google Drive or GitHub and replace the link above*)
 
 ---
 
