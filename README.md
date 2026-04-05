@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
 
-  <a href="https://akbarhussain.netlify.app/" target="_blank">
+  <a href="https://akbarhussainportfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome" />
   </a>
 </p>
