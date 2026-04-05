@@ -36,7 +36,7 @@
 ## 🌐 Portfolio
 
 🚀 **Live Portfolio:**  
-👉 https://akbarhussain.netlify.app/
+👉 https://akbarhussainportfolio.netlify.app/
 
 ---
 
