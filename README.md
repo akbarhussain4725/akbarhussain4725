@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 - 🎓 B.Tech in Artificial Intelligence and Data Science  
-- 💻 Python Full Stack Developer (Flask)  
+- 💻 Python Full Stack Developer 
 - 🤖 Built real-world AI-based applications  
 - 📍 Chennai, India  
 
@@ -58,7 +58,7 @@ HTML, CSS, JavaScript
 Flask, Django  
 
 **Libraries & Tools:**  
-NumPy, Matplotlib, Seaborn, TensorFlow, Git, GitHub  
+NumPy, TensorFlow, Git, GitHub , Jupter lab , Jupyter Notebook
 
 ---
 
