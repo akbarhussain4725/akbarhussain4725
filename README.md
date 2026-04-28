@@ -5,8 +5,8 @@
 
 ## 🚀 About Me
 - 🎓 B.Tech in Artificial Intelligence and Data Science  
-- 💻 Python Full Stack Developer 
-- 🤖 Built real-world AI-based applications  
+- 💻 Python Full Stack Developer  
+- 🤖 Built AI-based and full-stack web applications  
 - 📍 Chennai, India  
 
 ---
@@ -34,15 +34,13 @@
 ---
 
 ## 🌐 Portfolio
-
 🚀 **Live Portfolio:**  
 👉 https://akbarhussainportfolio.netlify.app/
 
 ---
 
 ## 📄 Resume
-
-👉 [Click here to view my Resume](https://drive.google.com/file/d/1ZaNGp6HfSEf6UBPbJNY3gUFdjaD0r9XO/view?usp=sharing)
+👉 [View My Resume](https://drive.google.com/file/d/1ZaNGp6HfSEf6UBPbJNY3gUFdjaD0r9XO/view?usp=sharing)
 
 ---
 
@@ -58,34 +56,33 @@ HTML, CSS, JavaScript
 Flask, Django  
 
 **Libraries & Tools:**  
-NumPy, TensorFlow, Git, GitHub , Jupter lab , Jupyter Notebook
+NumPy, TensorFlow, OpenCV, Pandas, Scikit-learn, Git, GitHub, Jupyter Notebook  
 
 ---
 
 ## 🔥 Projects
 
-### 🤖 EduBot – AI Tutor with Avatar Video Response  
+### 🤖 EduBot – AI Tutor Web Application  
 🔗 https://github.com/akbarhussain4725/An-Interactive-Holographic-AI-Tutor  
 
-- Full-stack Flask application with authentication  
-- NLP-based intelligent chatbot  
-- Text-to-speech + avatar video generation  
-- Real-time interaction system  
+- Built a full-stack Flask application with user authentication and session management  
+- Developed a real-time chatbot with dynamic response handling  
+- Integrated text-to-speech and automated avatar video generation  
+- Designed modular structure for scalability and maintainability  
 
 ---
 
 ### 🧠 Tamil Inscription Recognition System  
 🔗 https://github.com/akbarhussain4725/Tamil-Inscription-Recognizer---Project  
 
-- CNN-based deep learning model (95%+ accuracy)  
-- Image preprocessing & segmentation  
-- Translation + Text-to-Speech pipeline  
-- Flask web interface  
+- Developed a CNN-based model achieving 95%+ accuracy  
+- Implemented image preprocessing and character segmentation using OpenCV  
+- Built a complete pipeline for recognition, translation, and speech output  
+- Integrated the system into a Flask web application  
 
 ---
 
 ## 💡 Goals
-
 - Become a skilled Python Full Stack Developer  
 - Build scalable real-world applications  
 - Explore AI integration in web systems  
