@@ -23,6 +23,7 @@ I don't just follow tutorials — I build things and ship them publicly.
 - 📦 I published a Python package on **PyPI** → [`pip install loan-emi`](https://pypi.org/project/loan-emi/)
 - 🧠 I trained a **CNN model** that reads handwritten Tamil text with **95%+ accuracy**
 - 🤖 I built a full-stack **AI tutor** with Flask, TTS, and auto video generation
+- 🌐 Portfolio → **[akbarhussainportfolio.netlify.app](https://akbarhussainportfolio.netlify.app/)**
 - 🔍 Currently looking for **entry-level Python / Backend / ML roles**
 
 > _If you're hiring someone who learns fast, ships real projects,_
@@ -126,6 +127,9 @@ Worked on fraud detection, data cleaning with Pandas, and pattern visualization 
   </a>
   <a href="https://linkedin.com/in/akbar-hussain-3a1151279">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://akbarhussainportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7"/>
   </a>
   <a href="https://pypi.org/project/loan-emi/">
     <img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white"/>
