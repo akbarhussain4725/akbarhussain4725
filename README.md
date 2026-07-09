@@ -86,23 +86,6 @@ pip install loan-emi
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akbarhussain4725&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbarhussain4725&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=akbarhussain4725&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akbarhussain4725&theme=darkhub&no-bg=true&no-frame=true&column=6&margin-w=8"/>
-</p>
-
----
-
 ## 🎓 Education & Training
 
 | Degree | Institution | Year |
