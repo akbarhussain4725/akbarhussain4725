@@ -97,7 +97,7 @@ pip install loan-emi
 
 ## 💼 Experience
 
-**Python Developer Intern** — TechnoHacks Solutions *(Jun–Jul 2024)*
+**Data Science Intern** — TechnoHacks Solutions *(Jun–Jul 2024)*
 Worked on fraud detection, data cleaning with Pandas, and pattern visualization on structured datasets.
 
 ---
